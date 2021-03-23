@@ -10,7 +10,7 @@ programa
 
 		escreva("Entre com o seu nome: ")
 		leia(nome)
-		escreva("Entre com o seu time de coração: ")
+		escreva("Entre com o seu time do peito: ")
 		leia(time)
 		escreva("Entre com a sua idade: ")
 		leia(idade)
@@ -43,7 +43,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 873; 
+ * @POSICAO-CURSOR = 253; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
